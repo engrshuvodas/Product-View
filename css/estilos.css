@@ -84,6 +84,10 @@ body {
     border-radius: 25px;
     margin-right: 10px;
 }
+.a{
+    text-decoration: none; 
+    color: inherit;
+}
 
 .like_button {
     width: 65px;
